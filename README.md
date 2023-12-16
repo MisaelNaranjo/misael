@@ -1,6 +1,6 @@
 # Red Social: Teach&Learn
 
-*Repositorio clonado en el cual se realizara el rpoyecto
+*Repositorio clonado en el cual se realizara el proyecto
 
 
 
